@@ -7,7 +7,7 @@ Full-stack developer building things for the web.
 ## 🎵 Listening to now
 
 <!-- NOW_PLAYING_START -->
-[![Now Playing](https://img.shields.io/badge/Now%20Playing-LASINE%E2%80%93Guizy-1DB954?style=for-the-badge&logo=listenbrainz&logoColor=1DB954])(https://listenbrainz.org/user/dioxin)
+[![Now Playing](https://img.shields.io/badge/Now%20Playing-LASINE%E2%80%93Guizy-1DB954?style=for-the-badge&logo=listenbrainz&logoColor=1DB954)](https://listenbrainz.org/user/dioxin)
 
 > **LASINE** — *Guizy*
 <!-- NOW_PLAYING_END -->
