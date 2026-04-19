@@ -31,7 +31,7 @@
 | 4 | **COEURCO** | 3 |
 | 5 | **Jeune Morty** | 2 |
 
-![ListenBrainz Last Week](https://api.listenbrainz.org/1/user/dioxin/listens?limit=25)
+[![ListenBrainz](https://img.shields.io/badge/ListenBrainz-dioxin-EB8E1F?logo=listenbrainz&logoColor=EB8E1F&style=flat-square)](https://listenbrainz.org/user/dioxin)
 
 ---
 
