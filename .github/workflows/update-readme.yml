@@ -1,0 +1,36 @@
+name: Update README with weekly top artists
+
+on:
+  schedule:
+    - cron: '0 9 * * 1'  # Every Monday at 9 AM UTC
+  workflow_dispatch:       # Allows manual trigger
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          sparse-checkout: |
+            .github/workflows/update-readme.yml
+            scripts/update-listenbrainz.py
+            README.md
+          sparse-checkout-cone-mode: false
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Fetch ListenBrainz data and update README
+        run: python scripts/update-listenbrainz.py
+        env:
+          LB_USER: dioxin
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --quiet && echo "No changes" || git commit -m "chore: update weekly top artists from ListenBrainz [skip ci]" && git push

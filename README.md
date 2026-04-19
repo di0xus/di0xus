@@ -4,16 +4,19 @@ Full-stack developer building things for the web.
 
 ---
 
-## 🎵 Listening to right now
+## 🎵 Listening to now
 
+<!-- NOW_PLAYING_START -->
 [![Now Playing](https://img.shields.io/badge/Now%20Playing-Jeune%20Morty%20%E2%80%93%20Dent-1DB954?style=for-the-badge&logo=listenbrainz&logoColor=1DB954)](https://listenbrainz.org/user/dioxin)
 
-> **Dent** — *En Attendant Eponyme* (159s) via Monochrome
+> **Dent** — *En Attendant Eponyme*
+<!-- NOW_PLAYING_END -->
 
 ---
 
 ## 🏆 Top Artists This Week
 
+<!-- TOP_ARTISTS_START -->
 | # | Artist | Plays |
 |---|--------|-------|
 | 1 | **Serane** | 6 |
@@ -21,6 +24,7 @@ Full-stack developer building things for the web.
 | 3 | **8ruki** | 4 |
 | 4 | **COEURCO** | 3 |
 | 5 | **Jeune Morty** | 2 |
+<!-- TOP_ARTISTS_END -->
 
 ---
 
@@ -48,10 +52,10 @@ Full-stack developer building things for the web.
 
 ---
 
-## 🎶 Music Profile
+## 🎶 Music
 
-Scrobbled via **[ListenBrainz](https://listenbrainz.org/user/dioxin)** — user: **dioxin**
+Scrobbled via **[ListenBrainz](https://listenbrainz.org/user/dioxin)**
 
 ---
 
-*Last updated: 2026-04-19*
+**Last updated:** 2026-04-19
