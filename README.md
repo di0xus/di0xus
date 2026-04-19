@@ -39,9 +39,6 @@ Full-stack developer building things for the web.
 ### [Cloven](https://github.com/di0xus/cloven)
 > Multi-entity invoice & billing platform. Next.js 16 App Router · TypeScript strict · Supabase · Stripe · React-PDF (Factur-X) · i18n
 
-### [doriangironde.com](https://github.com/di0xus/doriangironde-site)
-> Personal portfolio. Vite + React · NowPlaying widget (ListenBrainz)
-
 ---
 
 ## 📊 GitHub Stats
