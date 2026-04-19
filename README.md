@@ -7,9 +7,9 @@ Full-stack developer building things for the web.
 ## 🎵 Listening to now
 
 <!-- NOW_PLAYING_START -->
-[![Now Playing](https://img.shields.io/badge/Now%20Playing-Jeune%20Morty%20%E2%80%93%20Dent-1DB954?style=for-the-badge&logo=listenbrainz&logoColor=1DB954)](https://listenbrainz.org/user/dioxin)
+[![Now Playing](https://img.shields.io/badge/Now%20Playing-Elton%20John%E2%80%93Cold%20Heart-1DB954?style=for-the-badge&logo=listenbrainz&logoColor=1DB954])(https://listenbrainz.org/user/dioxin)
 
-> **Dent** — *En Attendant Eponyme*
+> **Cold Heart** — *Cold Heart (PNAU Remix)*
 <!-- NOW_PLAYING_END -->
 
 ---
@@ -19,11 +19,11 @@ Full-stack developer building things for the web.
 <!-- TOP_ARTISTS_START -->
 | # | Artist | Plays |
 |---|--------|-------|
-| 1 | **Serane** | 6 |
+| 1 | **Serane** | 5 |
 | 2 | **Sherifflazone** | 4 |
 | 3 | **8ruki** | 4 |
-| 4 | **COEURCO** | 3 |
-| 5 | **Jeune Morty** | 2 |
+| 4 | **Guizy** | 3 |
+| 5 | **COEURCO** | 3 |
 <!-- TOP_ARTISTS_END -->
 
 ---

@@ -165,6 +165,9 @@ if __name__ == "__main__":
     top_artists = get_top_artists(limit=5)
     now_playing = get_now_playing()
 
+    print(f"DEBUG: top_artists = {top_artists}")
+    print(f"DEBUG: now_playing = {now_playing}")
+
     if top_artists is None:
         print("Failed to fetch top artists, aborting.")
         exit(1)
