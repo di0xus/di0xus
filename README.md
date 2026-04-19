@@ -17,13 +17,13 @@ Full-stack developer building things for the web.
 ## 🏆 Top Artists This Week
 
 <!-- TOP_ARTISTS_START -->
-| # | Artist | Plays |
-|---|--------|-------|
-| 1 | **Serane** | 5 |
-| 2 | **Sherifflazone** | 4 |
-| 3 | **8ruki** | 4 |
-| 4 | **Guizy** | 3 |
-| 5 | **COEURCO** | 3 |
+| # | Artist | 
+|---|--------|
+| 1 | **Serane** |
+| 2 | **Sherifflazone** |
+| 3 | **8ruki** |
+| 4 | **Guizy** |
+| 5 | **COEURCO** |
 <!-- TOP_ARTISTS_END -->
 
 ---
